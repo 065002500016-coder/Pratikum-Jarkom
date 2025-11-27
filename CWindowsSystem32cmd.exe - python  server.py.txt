@@ -1,0 +1,10 @@
+Microsoft Windows [Version 10.0.26100.7171]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\Henri\OneDrive\Desktop\chafrilda\Praktikum Jarkom\jarkom>python server.py
+Host: localhost
+Port: 0001
+New connection at ID 0 ('127.0.0.1', 65443)
+New connection at ID 1 ('127.0.0.1', 61136)
+ID 0: hi yuda apa kabar?
+ID 1: baik
